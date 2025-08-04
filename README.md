@@ -1,5 +1,5 @@
 
-#  California Housing Data Analysis & Modeling
+#   Housing Data Analysis & Modeling
 
 ## Overview
 
