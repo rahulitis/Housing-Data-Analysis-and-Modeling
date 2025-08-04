@@ -59,7 +59,7 @@ Main libraries used:
 
 ##  Code Structure
 
-### 1. 📥 Data Loading
+### 1.  Data Loading
 
 ```python
 from sklearn.datasets import fetch_california_housing
